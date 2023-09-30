@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Actualizar Empleado","Actualizar Empleado","SUCCESS","2023-09-30T00:00:16.5709752-05:00[America/Bogota]","0.0","5.53"
+"Crear Empleado","Crear Empleado","ERROR","2023-09-30T00:00:23.6759545-05:00[America/Bogota]","0.0","0.97"
+"Eliminar Empleado","Eliminar Empleado","ERROR","2023-09-30T00:00:24.7639565-05:00[America/Bogota]","0.0","0.67"
+"Obtener informacion Empleado id","Obtener informacion Empleado id","ERROR","2023-09-30T00:00:25.516217-05:00[America/Bogota]","0.0","0.76"
+"Obtener informacion  Empleado","Obtener informacion Empleado","ERROR","2023-09-30T00:00:26.3550378-05:00[America/Bogota]","0.0","0.69"
